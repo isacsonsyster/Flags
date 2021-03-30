@@ -1,0 +1,15 @@
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\Flags\flags\flags\bin\Debug\flags.exe.config
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\Flags\flags\flags\bin\Debug\flags.exe
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\Flags\flags\flags\bin\Debug\flags.pdb
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\Flags\flags\flags\obj\Debug\flags.csprojAssemblyReference.cache
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\Flags\flags\flags\obj\Debug\MainWindow.g.cs
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\Flags\flags\flags\obj\Debug\App.g.cs
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\Flags\flags\flags\obj\Debug\flags_MarkupCompile.cache
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\Flags\flags\flags\obj\Debug\flags_MarkupCompile.lref
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\Flags\flags\flags\obj\Debug\MainWindow.baml
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\Flags\flags\flags\obj\Debug\flags.g.resources
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\Flags\flags\flags\obj\Debug\flags.Properties.Resources.resources
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\Flags\flags\flags\obj\Debug\flags.csproj.GenerateResource.cache
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\Flags\flags\flags\obj\Debug\flags.csproj.CoreCompileInputs.cache
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\Flags\flags\flags\obj\Debug\flags.exe
+C:\Users\ester.isacson\Desktop\SKOLA\PROGRAMMERING\Programmering-2\Flags\flags\flags\obj\Debug\flags.pdb
